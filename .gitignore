@@ -166,3 +166,7 @@ cython_debug/
 src/.DS_Store
 .DS_Store
 .cursorrules
+scripts/markitdown-app.env
+scripts/.markitdown-mcp.pid
+scripts/.markitdown-mcp.log
+docker-compose.override.yml
